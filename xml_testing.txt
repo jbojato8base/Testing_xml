@@ -1,0 +1,450 @@
+<source>
+<job>
+<ref_no>
+<![CDATA[ DIA-22D03211A ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 435331 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ DIA ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Shuttle Bus Driver ]]>
+</title>
+<description>
+<![CDATA[ <h4>Are you a Class B Driver with a Passenger endorsement?</h4><p>Managed Labor Solutions (MLS), a leading nationwide rental car outsourcing company, is currently hiring quality, team driven people to work as a Shuttle Bus Driver for our partners at the airport.</p><h4>What you'll do</h4><ul><li>Provide friendly service and professionalism to our customers</li><li>Operate radio or similar device to communicate with other team members or management</li><li>Perform safe driving practices and maintain a timely shuttle route</li><li>Assist guests by lifting and carrying guest baggage on and off the shuttle van as needed</li><li>Periodically may be required to assist in other operational functions</li><li>Work under minimal supervision</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>HS Diploma or GED</li><li>Class B license plus Passenger (P) Endorsement</li><li>A clean driving record</li><li>Valid DOT Medical Card</li><li>Flexible with schedule to work night, weekends and holidays as needed</li><li>Able to repetitively lift and carry up to 50 pounds on a regular basis</li></ul><p>If you meet these job requirements, apply now. A recruiter will follow up to schedule an interview with qualified applicants.</p> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-shuttle-bus-driver-583/ ]]>
+</apply_url>
+<city>
+<![CDATA[ Denver ]]>
+</city>
+<state>
+<![CDATA[ CO ]]>
+</state>
+<postal_code>
+<![CDATA[ 80249 ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $18.00 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 18 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 18 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ hub ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ DIA-22D03212X ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 435331 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ DIA ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Shuttle Bus Driver ]]>
+</title>
+<description>
+<![CDATA[ <h4>Are you a Class B Driver with a Passenger endorsement?</h4><p>Managed Labor Solutions (MLS), a leading nationwide rental car outsourcing company, is currently hiring quality, team driven people to work as a Shuttle Bus Driver for our partners at the airport.</p><h4>What you'll do</h4><ul><li>Provide friendly service and professionalism to our customers</li><li>Operate radio or similar device to communicate with other team members or management</li><li>Perform safe driving practices and maintain a timely shuttle route</li><li>Assist guests by lifting and carrying guest baggage on and off the shuttle van as needed</li><li>Periodically may be required to assist in other operational functions</li><li>Work under minimal supervision</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>HS Diploma or GED</li><li>Class B license plus Passenger (P) Endorsement</li><li>A clean driving record</li><li>Valid DOT Medical Card</li><li>Flexible with schedule to work night, weekends and holidays as needed</li><li>Able to repetitively lift and carry up to 50 pounds on a regular basis</li></ul><p>If you meet these job requirements, apply now. A recruiter will follow up to schedule an interview with qualified applicants.</p> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-shuttle-bus-driver-584/ ]]>
+</apply_url>
+<city>
+<![CDATA[ Thornton ]]>
+</city>
+<state>
+<![CDATA[ CO ]]>
+</state>
+<postal_code>
+<![CDATA[ ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $18.00 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 18 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 18 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ first_cluster ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ DIA-22D03213X ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 435331 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ DIA ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Shuttle Bus Driver ]]>
+</title>
+<description>
+<![CDATA[ <h4>Are you a Class B Driver with a Passenger endorsement?</h4><p>Managed Labor Solutions (MLS), a leading nationwide rental car outsourcing company, is currently hiring quality, team driven people to work as a Shuttle Bus Driver for our partners at the airport.</p><h4>What you'll do</h4><ul><li>Provide friendly service and professionalism to our customers</li><li>Operate radio or similar device to communicate with other team members or management</li><li>Perform safe driving practices and maintain a timely shuttle route</li><li>Assist guests by lifting and carrying guest baggage on and off the shuttle van as needed</li><li>Periodically may be required to assist in other operational functions</li><li>Work under minimal supervision</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>HS Diploma or GED</li><li>Class B license plus Passenger (P) Endorsement</li><li>A clean driving record</li><li>Valid DOT Medical Card</li><li>Flexible with schedule to work night, weekends and holidays as needed</li><li>Able to repetitively lift and carry up to 50 pounds on a regular basis</li></ul><p>If you meet these job requirements, apply now. A recruiter will follow up to schedule an interview with qualified applicants.</p> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-shuttle-bus-driver-585/ ]]>
+</apply_url>
+<city>
+<![CDATA[ Westminster ]]>
+</city>
+<state>
+<![CDATA[ CO ]]>
+</state>
+<postal_code>
+<![CDATA[ ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $18.00 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 18 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 18 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ first_cluster ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ ABQ-22D03013R ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 395483 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ SW ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Rental Car Cleaner ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Do you enjoy late model cars, have a good attention to detail, and need a flexible schedule? Managed Labor Solutions (MLS)</strong>, a leading nationwide rental car outsourcing company, is looking for high energy and team driven people to work as a Rental Car Cleaner for our partners on airport location.</p><p><strong>What you'll be doing:</strong></p><ul><li>Efficiently and safely clean both the interior and exterior of vehicle</li><li>Check fuel level, warning lights and tire pressure. Fill all necessary fluids, refuel vehicle</li><li>Display amazing service and professionalism to our customers</li><li>Follow all company safety policies and procedures</li><li>Perform safe driving practices and follow verbal directions</li><li>Work under minimal supervision and have excellent time management skills</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>Valid driver's license</li><li>18 years of age or older</li><li>Must be flexible with schedule to work night, weekends and holidays as needed</li><li>Must be able to reach, stretch, bend and sit for long periods at a time</li></ul> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-rental-car-cleaner-586/ ]]>
+</apply_url>
+<city>
+<![CDATA[ Albuquerque ]]>
+</city>
+<state>
+<![CDATA[ NM ]]>
+</state>
+<postal_code>
+<![CDATA[ 87106 ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $12.50 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 12.5 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 12.5 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ hub ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ ABQ-22D03014O ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 395483 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ SW ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Rental Car Cleaner ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Do you enjoy late model cars, have a good attention to detail, and need a flexible schedule? Managed Labor Solutions (MLS)</strong>, a leading nationwide rental car outsourcing company, is looking for high energy and team driven people to work as a Rental Car Cleaner for our partners on airport location.</p><p><strong>What you'll be doing:</strong></p><ul><li>Efficiently and safely clean both the interior and exterior of vehicle</li><li>Check fuel level, warning lights and tire pressure. Fill all necessary fluids, refuel vehicle</li><li>Display amazing service and professionalism to our customers</li><li>Follow all company safety policies and procedures</li><li>Perform safe driving practices and follow verbal directions</li><li>Work under minimal supervision and have excellent time management skills</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>Valid driver's license</li><li>18 years of age or older</li><li>Must be flexible with schedule to work night, weekends and holidays as needed</li><li>Must be able to reach, stretch, bend and sit for long periods at a time</li></ul> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-rental-car-cleaner-587/ ]]>
+</apply_url>
+<city>
+<![CDATA[ Rio Rancho ]]>
+</city>
+<state>
+<![CDATA[ NM ]]>
+</state>
+<postal_code>
+<![CDATA[ ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $12.50 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 12.5 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 12.5 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ first_cluster ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ ABQ-22D03015D ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 395483 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ SW ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Rental Car Cleaner ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Do you enjoy late model cars, have a good attention to detail, and need a flexible schedule? Managed Labor Solutions (MLS)</strong>, a leading nationwide rental car outsourcing company, is looking for high energy and team driven people to work as a Rental Car Cleaner for our partners on airport location.</p><p><strong>What you'll be doing:</strong></p><ul><li>Efficiently and safely clean both the interior and exterior of vehicle</li><li>Check fuel level, warning lights and tire pressure. Fill all necessary fluids, refuel vehicle</li><li>Display amazing service and professionalism to our customers</li><li>Follow all company safety policies and procedures</li><li>Perform safe driving practices and follow verbal directions</li><li>Work under minimal supervision and have excellent time management skills</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>Valid driver's license</li><li>18 years of age or older</li><li>Must be flexible with schedule to work night, weekends and holidays as needed</li><li>Must be able to reach, stretch, bend and sit for long periods at a time</li></ul> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-rental-car-cleaner-588/ ]]>
+</apply_url>
+<city>
+<![CDATA[ South Valley ]]>
+</city>
+<state>
+<![CDATA[ NM ]]>
+</state>
+<postal_code>
+<![CDATA[ ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $12.50 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 12.5 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 12.5 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ first_cluster ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ ATL-22D03026N ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 412847 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ ATL ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Rental Car Cleaner ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Do you enjoy late model cars, have a good attention to detail, and need a flexible schedule? Managed Labor Solutions (MLS)</strong>, a leading nationwide rental car outsourcing company, is looking for high energy and team driven people to work as a Rental Car Cleaner for our partners on airport location.</p><p><strong>What you'll be doing:</strong></p><ul><li>Efficiently and safely clean both the interior and exterior of vehicle</li><li>Check fuel level, warning lights and tire pressure. Fill all necessary fluids, refuel vehicle</li><li>Display amazing service and professionalism to our customers</li><li>Follow all company safety policies and procedures</li><li>Perform safe driving practices and follow verbal directions</li><li>Work under minimal supervision and have excellent time management skills</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>Valid driver's license</li><li>18 years of age or older</li><li>Must be flexible with schedule to work night, weekends and holidays as needed</li><li>Must be able to reach, stretch, bend and sit for long periods at a time</li></ul> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-rental-car-cleaner-589/ ]]>
+</apply_url>
+<city>
+<![CDATA[ Atlanta ]]>
+</city>
+<state>
+<![CDATA[ GA ]]>
+</state>
+<postal_code>
+<![CDATA[ ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $13.00 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 13 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 13 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ hub ]]>
+</geo_topo>
+</job>
+<job>
+<ref_no>
+<![CDATA[ ATL-22D03027I ]]>
+</ref_no>
+<ats_no>
+<![CDATA[ 412847 ]]>
+</ats_no>
+<campaign_code>
+<![CDATA[ ATL ]]>
+</campaign_code>
+<company>
+<![CDATA[ Managed Labor Solutions ]]>
+</company>
+<title>
+<![CDATA[ Airport Rental Car Cleaner ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Do you enjoy late model cars, have a good attention to detail, and need a flexible schedule? Managed Labor Solutions (MLS)</strong>, a leading nationwide rental car outsourcing company, is looking for high energy and team driven people to work as a Rental Car Cleaner for our partners on airport location.</p><p><strong>What you'll be doing:</strong></p><ul><li>Efficiently and safely clean both the interior and exterior of vehicle</li><li>Check fuel level, warning lights and tire pressure. Fill all necessary fluids, refuel vehicle</li><li>Display amazing service and professionalism to our customers</li><li>Follow all company safety policies and procedures</li><li>Perform safe driving practices and follow verbal directions</li><li>Work under minimal supervision and have excellent time management skills</li></ul><p><strong>Benefits:</strong></p><ul><li>Health insurance</li><li>Dental insurance</li><li>Flexible schedule</li></ul><p><strong>What we require:</strong></p><ul><li>Valid driver's license</li><li>18 years of age or older</li><li>Must be flexible with schedule to work night, weekends and holidays as needed</li><li>Must be able to reach, stretch, bend and sit for long periods at a time</li></ul> ]]>
+</description>
+<apply_email>
+<![CDATA[ recruiting@workformls.com ]]>
+</apply_email>
+<apply_url>
+<![CDATA[ https://workformls.com/jobs/airport-rental-car-cleaner-590/ ]]>
+</apply_url>
+<city>
+<![CDATA[ College Park ]]>
+</city>
+<state>
+<![CDATA[ GA ]]>
+</state>
+<postal_code>
+<![CDATA[ 30337 ]]>
+</postal_code>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<pay>
+<![CDATA[ $13.00 per hour ]]>
+</pay>
+<pay_min>
+<![CDATA[ 13 ]]>
+</pay_min>
+<pay_max>
+<![CDATA[ 13 ]]>
+</pay_max>
+<pay_interval>
+<![CDATA[ hour ]]>
+</pay_interval>
+<schedule>
+<![CDATA[ full_time ]]>
+</schedule>
+<geo_topo>
+<![CDATA[ first_cluster ]]>
+</geo_topo>
+</job>
+</source>
